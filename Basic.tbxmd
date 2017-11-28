@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="tbxmd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/LTAC-Global/TBX_module_description_xml/master/tbxmd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <tbxmd module="basic" ns="http://www.tbxinfo.net/ns/dct/basic"><!-- ns is only applicable to DCT style TBX -->
     <header>
         <title>Description of the Basic data category module for TBX</title>
