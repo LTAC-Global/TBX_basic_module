@@ -78,7 +78,7 @@
    <!-- termNote classified elements -->
    <define name="module.termNote">
       <choice>
-         <element name="gender">
+         <element name="grammaticalGender">
             <choice>
                <value>masculine</value>
                <value>feminine</value>
