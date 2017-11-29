@@ -35,16 +35,16 @@ value of the name attribute. -->
             </levels>
             <contents datatype="PCDATA"/>
         </xrefSpec>
-        <termNoteSpec name="gender" datcatId="http://www.datcatinfo.net/datcat/DC-3661">
+        <termNoteSpec name="geographicalUsage" datcatId="http://www.datcatinfo.net/datcat/DC-243">
+            <contents datatype="PCDATA"/>
+        </termNoteSpec>
+        <termNoteSpec name="grammaticalGender" datcatId="http://www.datcatinfo.net/datcat/DC-3661">
             <contents datatype="picklist">
                 <value>masculine</value>
                 <value>feminine</value>
                 <value>neuter</value>
                 <value>other</value>
             </contents>
-        </termNoteSpec>
-        <termNoteSpec name="geographicalUsage" datcatId="http://www.datcatinfo.net/datcat/DC-243">
-            <contents datatype="PCDATA"/>
         </termNoteSpec>
         <adminSpec name="projectSubset" datcatId="http://www.datcatinfo.net/datcat/DC-406">
             <levels>
