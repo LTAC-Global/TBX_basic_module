@@ -2,7 +2,7 @@
 <grammar xmlns="http://relaxng.org/ns/structure/1.0" xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:teix="http://www.tei-c.org/ns/Examples"
    datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
-   ns="http://www.tbxinfo.net/ns/dct/basic">
+   ns="http://www.tbxinfo.net/ns/basic">
    
    <!-- optional metaType attribute -->
    <define name="metaType">
