@@ -89,6 +89,29 @@
          <element name="geographicalUsage">
             <text/>
          </element>
+         <element name="termLocation">
+            <choice>
+               <value>checkBox</value>
+               <value>comboBox</value>
+               <value>comboBoxElement</value>
+               <value>dialogBox</value>
+               <value>groupBox</value>
+               <value>informativeMessage</value>
+               <value>interactiveMessage</value>
+               <value>menuItem</value>
+               <value>progressBar</value>
+               <value>pushButton</value>
+               <value>radioButton</value>
+               <value>slider</value>
+               <value>spinBox</value>
+               <value>spinBox</value>
+               <value>tab</value>
+               <value>tableText</value>
+               <value>textBox</value>
+               <value>toolTip</value>
+               <value>user-definedType</value>
+            </choice>
+         </element>
          <element name="termType">
             <choice>
                <value>fullForm</value>
