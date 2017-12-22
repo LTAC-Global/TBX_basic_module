@@ -28,6 +28,12 @@
         </rule>
     </pattern>
     
+    <pattern id="module.basic.termNote">
+        <rule context="basic:grammaticalGender|basic:grammaticalUsage|basic:termLocation|basic:termType">
+            <assert test="parent::tbx:termSec or parent::tbx:termNoteGrp/parent::tbx:termSec">termNote elements must not occur outside the termSec level.</assert>
+        </rule>
+    </pattern>
+    
     <pattern id="module.basic.transac">
         <rule context="basic:transactionType">
             <assert test="parent::tbx:conceptEntry or parent::tbx:langSec or parent::tbx:transacGrp/(parent::tbx:conceptEntry or parent::tbx:langSec)">Transaction type may be either 'origination' or 'modification'.</assert>
