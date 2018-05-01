@@ -21,7 +21,7 @@ value of the name attribute. -->
             </levels>
             <contents datatype="PCDATA"/>
         </refSpec>
-        <descripSpec name="definition" datcatId="http://www.datcatinfo.net/datcat/DC-165">
+        <descripSpec name="definition" datcatId="http://www.datcatinfo.net/datcat/DC-168">
             <levels>
                 <level>conceptEntry</level>
                 <level>langSec</level>
@@ -38,7 +38,7 @@ value of the name attribute. -->
         <termNoteSpec name="geographicalUsage" datcatId="http://www.datcatinfo.net/datcat/DC-243">
             <contents datatype="PCDATA"/>
         </termNoteSpec>
-        <termNoteSpec name="grammaticalGender" datcatId="http://www.datcatinfo.net/datcat/DC-3661">
+        <termNoteSpec name="grammaticalGender" datcatId="http://www.datcatinfo.net/datcat/DC-245">
             <contents datatype="picklist">
                 <value>masculine</value>
                 <value>feminine</value>
@@ -48,6 +48,7 @@ value of the name attribute. -->
         </termNoteSpec>
         <adminSpec name="projectSubset" datcatId="http://www.datcatinfo.net/datcat/DC-406">
             <levels>
+                <level>conceptEntry</level>
                 <level>termSec</level>
             </levels>
             <contents datatype="PCDATA"/>
@@ -67,12 +68,6 @@ value of the name attribute. -->
             </levels>
             <contents datatype="PCDATA"/>
         </adminSpec>
-        <descripSpec name="subjectField" datcatId="http://www.datcatinfo.net/datcat/DC-489">
-            <levels>
-                <level>conceptEntry</level>
-            </levels>
-            <contents datatype="PCDATA"/>
-        </descripSpec>
         <termNoteSpec name="termLocation" datcatId="http://www.datcatinfo.net/datcat/DC-1823">
             <contents datatype="picklist">
                 	<value>checkBox</value>
@@ -105,7 +100,7 @@ value of the name attribute. -->
                 <value>phrase</value>
             </contents>
         </termNoteSpec>
-        <transacSpec name="transactionType" datcatId="http://www.datcatinfo.net/datcat/DC-162">
+        <transacSpec name="transactionType" datcatId="http://www.datcatinfo.net/datcat/DC-1689">
             <levels>
                 <level>conceptEntry</level>
             </levels>

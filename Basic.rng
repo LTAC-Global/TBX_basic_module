@@ -56,13 +56,6 @@
          <element name="definition">
             <text/>
          </element>
-         <element name="subjectField">
-            <documentation xmlns="http://relaxng.org/ns/compatibility/annotations/1.0">
-               (subjectField) A field of special knowledge. Subject fields shall be expressed in
-               plainText, and preferably be selected from a defined set of picklist values. Subject
-               fields shall be specified at the concept (termEntry) level.</documentation>
-            <text/>
-         </element>
       </choice>
    </define>
 
