@@ -1,6 +1,6 @@
 # Basic Module Versions
 
-## 1.1 (2018-02-22)
+## 1.1 (2019-02-22)
 
 ### Changelog
 - /related term/ and /related concept/ removed
