@@ -61,11 +61,7 @@
 
    <define name="module.ref">
       <choice>
-         <element name="relatedConcept">
-            <text/>
-            <ref name="attribute.target.internal"/>
-         </element>
-         <element name="relatedTerm">
+         <element name="crossReference">
             <text/>
             <ref name="attribute.target.internal"/>
          </element>
