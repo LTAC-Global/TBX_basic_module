@@ -6,7 +6,7 @@
 
 
 #### [Definition](https://github.com/LTAC-Global/TBX_basic_module/releases/latest/download/Basic_Module_Definition.pdf)
-#### [Download](https://github.com/LTAC-Global/TBX_basic_module/releases/download/v1.1.1/TBX_basic_module_v1.1.1.zip)
+#### [Download](https://github.com/LTAC-Global/TBX_basic_module/releases/download/v1.2.1/TBX_basic_module_v1.2.1.zip)
 
 
 ## 1.2 (2019-04-11)
