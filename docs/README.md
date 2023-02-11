@@ -11,7 +11,7 @@
 
 ## 1.2 (2019-04-11)
 
-### Changelog
+### Changes
 - Migrated /externalCrossReference/ from Basic module to Min Module
 
 Note: These changes are related to the use of /externalCrossReference/ in conjunction
@@ -19,7 +19,7 @@ with <hi> to facilitate inline URI linking in TBX-Min and above.
 
 ## 1.1 (2019-02-22)
 
-### Changelog
+### Changes
 - /related term/ and /related concept/ removed
 - /cross reference/ added
 
